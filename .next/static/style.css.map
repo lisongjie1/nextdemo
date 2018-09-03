@@ -1,0 +1,1 @@
+{"version":3,"file":"static/style.css","sources":["webpack:///./assets/hello.scss"],"sourcesContent":[".hello .red {\n  color: red; }\n\n\n\n// WEBPACK FOOTER //\n// ./assets/hello.scss"],"mappings":"AAAA;AACA;","sourceRoot":""}
